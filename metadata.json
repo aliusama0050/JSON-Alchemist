@@ -1,0 +1,5 @@
+{
+  "name": "JSON Alchemist",
+  "description": "Intelligently transform and translate any JSON file into your desired format using Gemini AI.",
+  "requestFramePermissions": []
+}
